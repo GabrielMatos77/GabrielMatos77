@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, meu nome é Gabriel 👋
 
-<!--
-**gabrielmatos77/gabrielmatos77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Há cinco anos, entrei no mundo da análise de dados e suporte em informática. Nos últimos 12 meses, concentrei-me intensamente na análise de dados, aprimorando minhas habilidades em SQL, Power BI, e Qlik Sense. Atualmente, estou imerso no universo do Python para análise avançada.
 
-Here are some ideas to get you started:
+Em meio a essa jornada, começamos a utilizar a plataforma Azure Databricks na empresa, e estou entusiasmado em expandir meu conhecimento nesse novo ambiente. Minha paixão por dados e a busca constante por aprendizado moldam minha abordagem em cada desafio, tornando-me um profissional comprometido com a inovação constante.
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Analista de Dados**
+- 💻 Trabalho com SQL, Power BI e Qlik Sense.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
+- 🚀 Focado em estudos no Databricks, Azure, Python e Apache Spark.
+ </br>
+<div display="inline">
+  <img widht="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
+  <img widht="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img widht="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />
+  <img widht="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img widht="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
+</div>
+</br>
+</br>
+</br>
