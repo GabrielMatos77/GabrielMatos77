@@ -1,6 +1,6 @@
 # Olá, meu nome é Gabriel 👋
 
-Há cinco anos, entrei no mundo da análise de dados e suporte em informática. Nos últimos 12 meses, concentrei-me intensamente na análise de dados, aprimorando minhas habilidades em SQL, Power BI, e Qlik Sense. Atualmente, estou imerso no universo do Python para análise avançada.
+Há cinco anos, entrei no mundo da análise de dados e suporte em informática. Nos últimos 2 anos, concentrei-me intensamente na análise de dados, aprimorando minhas habilidades em SQL, Power BI, e Qlik Sense. Atualmente, estou imerso no universo do Python para análise avançada.
 
 Em meio a essa jornada, começamos a utilizar a plataforma Azure Databricks na empresa, e estou entusiasmado em expandir meu conhecimento nesse novo ambiente. Minha paixão por dados e a busca constante por aprendizado moldam minha abordagem em cada desafio, tornando-me um profissional comprometido com a inovação constante.
 </br>
